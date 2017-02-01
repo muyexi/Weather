@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.2.0)
+  - Hero (0.1.2)
+  - Kingfisher (3.2.2)
+  - ObjectMapper (2.2.2)
+  - Reveal-SDK (6)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Hero
+  - Kingfisher (~> 3.0)
+  - ObjectMapper (~> 2.0)
+  - Reveal-SDK
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  Hero: 1465b8e2ca4224620d17d09044728dbbe5c08b7a
+  Kingfisher: 821466474ad7ffc375a4aecadfa05068cfed67b3
+  ObjectMapper: 9e385c2295bcc4e16eabbcfc85db801442bba545
+  Reveal-SDK: 67460e58f93711c7b18631d12c2b5de7740e48b5
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: 72b89292f6e3122caa7dd64eb61f3ded4b89a721
+
+COCOAPODS: 1.2.0
