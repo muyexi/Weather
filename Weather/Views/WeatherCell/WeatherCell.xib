@@ -26,8 +26,8 @@
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wRX-9N-uS4">
-                        <rect key="frame" x="267.5" y="9.5" width="46.5" height="24"/>
-                        <fontDescription key="fontDescription" type="system" weight="thin" pointSize="20"/>
+                        <rect key="frame" x="285" y="9.5" width="49" height="24"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
                         <nil key="textColor"/>
                         <nil key="highlightedColor"/>
                         <userDefinedRuntimeAttributes>
@@ -38,7 +38,7 @@
                 </subviews>
                 <constraints>
                     <constraint firstItem="cw2-zD-akU" firstAttribute="leading" secondItem="Hz2-eN-wlp" secondAttribute="leading" constant="20" id="cTA-sa-2Hb"/>
-                    <constraint firstAttribute="trailingMargin" secondItem="wRX-9N-uS4" secondAttribute="trailing" constant="20" id="hbD-nu-X6R"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="wRX-9N-uS4" secondAttribute="trailing" id="hbD-nu-X6R"/>
                     <constraint firstItem="cw2-zD-akU" firstAttribute="centerY" secondItem="Hz2-eN-wlp" secondAttribute="centerY" id="uef-bD-ic0"/>
                     <constraint firstItem="wRX-9N-uS4" firstAttribute="centerY" secondItem="Hz2-eN-wlp" secondAttribute="centerY" id="wTy-tp-Vlg"/>
                 </constraints>
